@@ -27,8 +27,6 @@ Complete example demonstrating how to implement a failover mechanism using the C
 
 * `ConsumerWithInterceptor` : Demonstrates how to implement a custom consumer interceptor in order to track all records being fetched.
 
-## Kafka Stream 
 
-Work in progress!
 
 
